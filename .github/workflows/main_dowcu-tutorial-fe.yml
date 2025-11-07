@@ -62,5 +62,3 @@ jobs:
           app-name: 'DowCU-Tutorial-FE'
           slot-name: 'Production'
           package: .
-
-          
